@@ -2,11 +2,11 @@
 ## _Applied DataScience_
 
 Team Members
--Team Lead - Venkatesh T (910619205068)
--M1 Lead - Trinity E (910619205064)
--M2 Lead - Sharukesh B (910619205050)
--M3 Lead - Vinod TH (910619205069)
--M4 Lead - Sudharsan R (910619205301)
+- Team Lead - Venkatesh T (910619205068)
+- M1 Lead - Trinity E (910619205064)
+- M2 Lead - Sharukesh B (910619205050)
+- M3 Lead - Vinod TH (910619205069)
+- M4 Lead - Sudharsan R (910619205301)
 
 ## Note
 
