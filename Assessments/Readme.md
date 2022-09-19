@@ -13,5 +13,5 @@ M4 Lead - Sudharsan R (910619205301)
 - We have uploaded 2 assignments for the assignment 1 namely,
 - - Assignment 1.ipynb
 - - Assignment_1_Python_Exercise.ipynb 
-- We can to know that the file Assignment 1 is for AI so we have uploaded the Assignment_1_Python_Exercise.ipynb file a little bit late
+- We came to know that the file Assignment 1 is for AI so we have uploaded the Assignment_1_Python_Exercise.ipynb file a little bit late
 - Sorry for the inconvience 
